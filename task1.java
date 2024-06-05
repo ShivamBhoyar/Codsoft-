@@ -2,7 +2,7 @@ import java.util.*;
 import java.io.File;
 import java.io.FileNotFoundException;
 
-public class task1 {
+public class NumberGame{
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String inputText = "";
